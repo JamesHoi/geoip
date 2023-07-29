@@ -13,3 +13,11 @@ ip1: 172.217.163.46
 location: India Tamil Nadu Chennai
 lambda: 13.0827 longitude: 80.2707
 ```
+
+## Install
+git clone https://github.com/JamesHoi/geoip
+cd geoip & python setup.py install
+
+## Todo
+1. Support older python version
+2. Add additional argument of specified dns
