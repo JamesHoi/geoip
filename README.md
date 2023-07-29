@@ -15,8 +15,10 @@ lambda: 13.0827 longitude: 80.2707
 ```
 
 ## Install
+```bash
 git clone https://github.com/JamesHoi/geoip
 cd geoip & python setup.py install
+```
 
 ## Todo
 1. Support older python version
